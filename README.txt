@@ -7,5 +7,3 @@ seaborn: more visualization
 
 Thank you for visiting my repository.
 <3 Gabby
-In this module we'll talk about several data science libraries for python:
-
